@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -map/sort -b
+ls -map/ sort -b
